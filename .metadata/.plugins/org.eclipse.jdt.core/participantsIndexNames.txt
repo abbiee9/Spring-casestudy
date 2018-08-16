@@ -1,0 +1,9 @@
+INDEX VERSION 1.130
+C:\Users\IBM_ADMIN\SpringPractice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\482055166.index
+\SpringCaseStudy\src
+C:\Users\IBM_ADMIN\SpringPractice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1529360868.index
+\SpringCaseStudy\src
+C:\Users\IBM_ADMIN\SpringPractice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1665484828.index
+\Spring4SecurityJavaConfig
+C:\Users\IBM_ADMIN\SpringPractice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\469164726.index
+\Spring4SecurityJavaConfig
